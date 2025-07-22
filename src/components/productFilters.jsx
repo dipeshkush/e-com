@@ -25,6 +25,7 @@ export default function ProductFilters() {
       </div>
 
       <div>
+         {/* Price Range */}
         <label className="block mb-1 font-semibold">Price Range: ${filters.priceRange.min} - ${filters.priceRange.max}</label>
         <input
           type="range"
