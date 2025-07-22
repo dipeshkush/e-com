@@ -1,4 +1,4 @@
-import ProductFilters from "../components/ProductFilters";
+import ProductFilters from "../components/temp";
 import ProductGrid from "../components/ProductGrid";
 import { useAppSelector } from '../hooks/redux';
 
