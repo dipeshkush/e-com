@@ -1,6 +1,7 @@
-import ProductFilters from '../components/ProductFilters';
-import ProductGrid from '../components/ProductGrid';
+import ProductFilters from "../components/ProductFilters";
+import ProductGrid from "../components/ProductGrid";
 import { useAppSelector } from '../hooks/redux';
+
 
 const Products = () => {
     const productsCount = useAppSelector(state => state.products.products.length);
