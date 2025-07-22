@@ -18,17 +18,28 @@ const Cart = () => {
 
   if (cartItems.length === 0) {
     return (
-      <div className="min-h-screen bg-background text-center py-8">
-        <ShoppingBag className="h-24 w-24 mx-auto text-muted-foreground mb-4" />
-        <h1 className="text-3xl font-bold mb-2">Your cart is empty</h1>
-        <p className="text-muted-foreground mb-6">
-          Looks like you haven't added any items to your cart yet.
-        </p>
-        <Link to="/" className="bg-blue-500 text-white py-2 px-4 rounded">
-          <ArrowLeft className="h-5 w-5 mr-2 inline" />
-          Continue Shopping
-        </Link>
+      <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-blue-50 to-white px-4 py-12 text-center">
+        <div className="bg-white shadow-lg rounded-xl p-8 max-w-md w-full">
+          <ShoppingBag className="h-20 w-20 mx-auto text-blue-400 mb-4 animate-bounce" />
+
+          <h1 className="text-3xl font-bold text-gray-800 mb-2">
+            Your cart is empty
+          </h1>
+
+          <p className="text-gray-500 mb-6">
+            Looks like you haven't added anything to your cart yet.
+          </p>
+
+          <Link
+            to="/"
+            className="inline-flex items-center justify-center bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-5 rounded-lg shadow transition duration-300"
+          >
+            <ArrowLeft className="h-5 w-5 mr-2" />
+            Continue Shopping
+          </Link>
+        </div>
       </div>
+
     );
   }
 

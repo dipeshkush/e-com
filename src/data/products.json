@@ -4,7 +4,7 @@
     "name": "Wireless Bluetooth Headphones",
     "price": 79.99,
     "category": "Electronics",
-    "image": "/wirelessheadphone.jpg",
+    "image": "/wirelessheadphone.webp",
     "description": "Premium wireless headphones with active noise cancellation and 30-hour battery life.",
     "rating": 4.5,
     "inStock": true
@@ -14,7 +14,7 @@
     "name": "Smart Fitness Watch",
     "price": 200,
     "category": "Electronics",
-    "image": "/smartwatch.jpg",
+    "image": "/smartwatch.webp",
     "description": "Advanced fitness tracking with heart rate monitor, GPS, and water resistance.",
     "rating": 4.7,
     "inStock": true
@@ -24,7 +24,7 @@
     "name": "Organic Cotton T-Shirt",
     "price": 24.99,
     "category": "Clothing",
-    "image": "/tshirt.jpg",
+    "image": "/tshirt.webp",
     "description": "Comfortable organic cotton t-shirt in various colors and sizes.",
     "rating": 4.2,
     "inStock": true
@@ -34,7 +34,7 @@
     "name": "Professional Chef Knife",
     "price": 89.99,
     "category": "Kitchen",
-    "image": "/knife.jpg",
+    "image": "/knife.webp",
     "description": "High-carbon steel chef knife with ergonomic handle for professional cooking.",
     "rating": 4.8,
     "inStock": true
@@ -44,7 +44,7 @@
     "name": "Leather Laptop Bag",
     "price": 149.99,
     "category": "Accessories",
-    "image": "/laptopbag.jpg",
+    "image": "/laptopbag.webp",
     "description": "Genuine leather laptop bag with multiple compartments and adjustable strap.",
     "rating": 4.6,
     "inStock": true
@@ -54,7 +54,7 @@
     "name": "Yoga Mat Premium",
     "price": 49.99,
     "category": "Sports",
-    "image": "/yogamat.jpg",
+    "image": "/yogamat.webp",
     "description": "Non-slip yoga mat with excellent cushioning and eco-friendly materials.",
     "rating": 4.4,
     "inStock": true
@@ -64,7 +64,7 @@
     "name": "Ceramic Coffee Mug Set",
     "price": 34.99,
     "category": "Kitchen",
-    "image": "/mug.jpg",
+    "image": "/mug.webp",
     "description": "Set of 4 handcrafted ceramic mugs perfect for coffee and tea lovers.",
     "rating": 4.3,
     "inStock": true
@@ -74,7 +74,7 @@
     "name": "Wireless Phone Charger",
     "price": 39.99,
     "category": "Electronics",
-    "image": "/wirlesscharger.jpg",
+    "image": "/wirlesscharger.webp",
     "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
     "rating": 4.1,
     "inStock": true
@@ -84,7 +84,7 @@
     "name": "Designer Sunglasses",
     "price": 129.99,
     "category": "Accessories",
-    "image": "/sunglass.jpg",
+    "image": "/sunglass.webp",
     "description": "Stylish polarized sunglasses with UV protection and lightweight frame.",
     "rating": 4.5,
     "inStock": false
@@ -94,7 +94,7 @@
     "name": "Running Shoes",
     "price": 119.99,
     "category": "Sports",
-    "image": "/shoes.jpg",
+    "image": "/shoes.webp",
     "description": "Lightweight running shoes with superior comfort and breathability.",
     "rating": 4.7,
     "inStock": true
@@ -104,7 +104,7 @@
     "name": "Wool Winter Scarf",
     "price": 45.99,
     "category": "Clothing",
-    "image": "/scarf.jpg",
+    "image": "/scarf.webp",
     "description": "Soft merino wool scarf available in multiple colors for cold weather.",
     "rating": 4.4,
     "inStock": true
@@ -114,7 +114,7 @@
     "name": "Bluetooth Speaker",
     "price": 69.99,
     "category": "Electronics",
-    "image": "speaker.jpg",
+    "image": "speaker.webp",
     "description": "Portable Bluetooth speaker with 360-degree sound and waterproof design.",
     "rating": 4.6,
     "inStock": true
@@ -124,7 +124,7 @@
     "name": "Stainless Steel Water Bottle",
     "price": 29.99,
     "category": "Kitchen",
-    "image": "/bottel.jpg",
+    "image": "/bottel.webp",
     "description": "Insulated stainless steel water bottle that keeps drinks cold for 24 hours.",
     "rating": 4.5,
     "inStock": true
@@ -134,7 +134,7 @@
     "name": "Canvas Backpack",
     "price": 79.99,
     "category": "Accessories",
-    "image": "/bagpack.jpg",
+    "image": "/bagpack.webp",
     "description": "Durable canvas backpack with laptop compartment and multiple pockets.",
     "rating": 4.3,
     "inStock": true
@@ -144,7 +144,7 @@
     "name": "Desk Lamp LED",
     "price": 54.99,
     "category": "Home",
-    "image": "/lamp.jpg",
+    "image": "/lamp.webp",
     "description": "Adjustable LED desk lamp with touch controls and USB charging port.",
     "rating": 4.2,
     "inStock": true
@@ -154,7 +154,7 @@
     "name": "Resistance Bands Set",
     "price": 19.99,
     "category": "Sports",
-    "image": "/bandset.jpg",
+    "image": "/bandset.webp",
     "description": "Complete set of resistance bands for home workouts with various resistance levels.",
     "rating": 4.4,
     "inStock": true
@@ -164,7 +164,7 @@
     "name": "Premium Jeans",
     "price": 89.99,
     "category": "Clothing",
-    "image": "/jeans.jpg",
+    "image": "/jeans.webp",
     "description": "Classic fit premium denim jeans with comfortable stretch fabric.",
     "rating": 4.6,
     "inStock": true
@@ -174,7 +174,7 @@
     "name": "Air Purifier",
     "price": 199.99,
     "category": "Home",
-    "image": "/air.jpg",
+    "image": "/air.webp",
     "description": "HEPA air purifier for clean air with smart sensor and quiet operation.",
     "rating": 4.7,
     "inStock": true
@@ -184,7 +184,7 @@
     "name": "Gaming Mouse",
     "price": 59.99,
     "category": "Electronics",
-    "image": "/mouse.jpg",
+    "image": "/mouse.webp",
     "description": "High-precision gaming mouse with RGB lighting and programmable buttons.",
     "rating": 4.5,
     "inStock": false
@@ -194,7 +194,7 @@
     "name": "Ceramic Plant Pot",
     "price": 19.99,
     "category": "Home",
-    "image": "/plant.jpg",
+    "image": "/plant.webp",
     "description": "Handcrafted ceramic plant pot with drainage holes and saucer included.",
     "rating": 4.1,
     "inStock": true
